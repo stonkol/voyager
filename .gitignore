@@ -1,0 +1,19 @@
+/private
+
+# macOS Finder metadata
+._*
+
+# User-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode directories
+.vscode/
+.history/
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
